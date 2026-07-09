@@ -12,6 +12,7 @@ This is a Hollow Knight mod with some QoL fixes, some patched speedtech, and a f
 - Sell all to Lemm by speaking from the right side.
 - Saves now have a .json copy which can be edited to modify saves easily.
 - Godhome menus are no longer broken by binding attack to LMB.
+- Loads are faster
 #### Changes that are disabled by default.
 - (Disabled by default) Can lock mouse cursor to game window.
 - (Disabled by default) Can disable hard saves. 
